@@ -20,9 +20,9 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de testar os conhecimentos adquiridos para gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
 <a href="https://github.com/OliveiraMonica2710/dio-lab-open-source" title="View PDF now"> 📕Clique aqui para ler</a>
