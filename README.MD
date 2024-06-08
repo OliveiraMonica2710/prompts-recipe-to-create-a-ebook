@@ -1,6 +1,6 @@
  
 -------
-
+image.capa.png
  
 
 # Projeto EBOOK Gerado por I.A.s
@@ -50,10 +50,10 @@ Midjourney：
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
-## 👨‍💻 Expert
+## 
 
 <p>
-    <img 
+    
       align=left 
       margin=10 
       width=80 
@@ -63,8 +63,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/OliveiraMonica2710/dio-lab-open-source">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/monica-maria-de-oliveira-591282139/
 &n 
 &nbsp;|&nbsp;</p>
 </p>
