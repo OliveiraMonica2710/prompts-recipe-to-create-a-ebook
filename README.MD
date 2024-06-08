@@ -1,6 +1,7 @@
  
 -------
-image.capa.png
+"GUIA COMPLETO PARA CRIAR, COLABORAR E
+GERENCIAR PROJETOS DE SUCESSO"
  
 
 # Projeto EBOOK Gerado por I.A.s
@@ -58,18 +59,6 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       margin=10 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/OliveiraMonica2710/dio-lab-open-source">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/monica-maria-de-oliveira-591282139/
-&n 
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
+    ---
 
 ⌨️ com 💜 por [https://github.com/OliveiraMonica2710/dio-lab-open-source)
